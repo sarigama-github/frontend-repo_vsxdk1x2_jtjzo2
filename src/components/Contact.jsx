@@ -25,7 +25,7 @@ const Contact = () => {
               <div className="space-y-3 text-slate-700">
                 <a href="tel:+916366211464" className="block p-3 rounded-lg border border-slate-200 hover:border-blue-400 hover:text-blue-700 transition">📞 63662 11464</a>
                 <a href="tel:+917829721166" className="block p-3 rounded-lg border border-slate-200 hover:border-blue-400 hover:text-blue-700 transition">📞 78297 21166</a>
-                <a href="mailto:contact@cityac.in" className="block p-3 rounded-lg border border-slate-200 hover:border-blue-400 hover:text-blue-700 transition">✉️ contact@cityac.in</a>
+                <a href="mailto:cityairconditioner66@gmail.com" className="block p-3 rounded-lg border border-slate-200 hover:border-blue-400 hover:text-blue-700 transition">✉️ cityairconditioner66@gmail.com</a>
                 <p className="text-sm text-slate-500">Service hours: 9:00 AM – 8:00 PM (Mon–Sun)</p>
               </div>
             </div>
